@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm a Software Developer with a background in museums 🖥 🧡 🏛
 
-### Cheatsheet
+### Here's my cheatsheet //
 
 - 🔭 I’m currently working on the Pre-Apprenticeship Course with Coders and Founders
 - 🌱 I’m currently learning/honing my markup skillset
