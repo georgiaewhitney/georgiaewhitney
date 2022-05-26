@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the Pre-Apprenticeship Course with Coders and Founders
 - 🌱 I’m currently learning/honing my markup skillset
 - 👯 I’m looking to collaborate on code review!
+- 💬 Ask me about accessibility! I'm still learning, but I love to share
 - 📫 How to reach me: 
 - 😄 Pronouns: [she/her]
 - ⚡ Fun fact: Time transcends me - I was born on 29/02 🐸
