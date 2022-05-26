@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Here's my cheatsheet //
 
-- 🔭 I’m currently working on the Pre-Apprenticeship Course with Coders and Founders
+- 🔭 I’m currently working on the Pre-Apprenticeship Course with Founders and Coders
 - 🌱 I’m currently learning/honing my markup skillset
 - 👯 I’m looking to collaborate on code review!
 - 💬 Ask me about accessibility! I'm still learning, but I love to share
