@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 👩🏻‍💻 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the Pre-Apprenticeship Course with Founders and Coders
 - 🌱 I’m currently learning/honing my markup skillset
-- 👯 I’m looking to collaborate on code review!
-- 💬 Ask me about accessibility! I'm still learning, but I love to share
-- 📫 How to reach me: 
-- 😄 Pronouns: [she/her]
+- 🧩 I’m looking to collaborate on code review!
+- 💬 Ask me about accessibility! I'm still learning, but I've spent a large portion of my career trying to make museums accessible
+- 📫 How to reach me: My handle is @rockyrelay in most places
+- 👩🏻‍💻 Pronouns: [she/her]
 - ⚡ Fun fact: Time transcends me - I was born on 29/02 🐸
+- 🥙 Μαθαίνω ελληνικά και θα ήθελα πολύ να μιλήσω για ψηφιακά πράγματα.
