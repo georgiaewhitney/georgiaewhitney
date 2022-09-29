@@ -1,4 +1,4 @@
-## Hello, I'm Georgia 🐠 // Γεια σας! Με λένε Γεωργία 👾
+## Hello, I'm Georgia 🐠 //
 
 <!--
 **rockyrelay/rockyrelay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: My handle is @rockyrelay in most places
 - 👩🏻‍💻 Pronouns: [she/her]
 - ⚡ Fun fact: Time transcends me - I was born on 29/02 🐸
-- 🥙 Μαθαίνω ελληνικά και θα ήθελα πολύ να μιλήσω για ψηφιακά πράγματα.
+- 🪢 Μαθαίνω ελληνικά και θα ήθελα πολύ να μιλήσω για ψηφιακά πράγματα.
