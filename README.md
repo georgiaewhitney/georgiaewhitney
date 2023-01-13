@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### Here's my cheatsheet //
 
-- 🔭 I’m currently working on the Pre-Apprenticeship Course with Founders and Coders
-- 🌱 I’m currently learning all about thre wonders of testing - test, test, test
+- 🔭 I’m currently a Software Engineering Apprentice, under bootcamp with Founders and Coders
+- 🌱 I’m currently learning about servers
 - 🧩 I’m looking to collaborate on code review!
 - 🟩 I'm trying to keep my contribution graph green
 - 💬 Ask me about accessibility! I'm still learning, but I've spent a large portion of my career trying to make museums accessible
