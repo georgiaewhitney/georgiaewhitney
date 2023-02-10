@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### I'm a Software Developer with a background in museums 🖥 🧡 🏛
 
-### Here's my cheatsheet //
+### 
 
-- 🔭 I’m a Software Engineer Apprentice, currently on bootcamp with Founders and Coders
-- 🧩 I’m currently learning React
-- 🟩 I'm trying to keep my contribution graph green
+- 🔭 Software Engineer Apprentice, currently on bootcamp with Founders and Coders
+- 🧩 Currently learning React
+- 🟩 Trying to keep my graph green
 - 💬 Ask me about accessibility! I'm still learning, but I've spent a large portion of my career trying to make museums accessible
 - 📫 How to reach me: My handle is @rockyrelay in most places
 - 👩🏻‍💻 Pronouns: [she/her]
