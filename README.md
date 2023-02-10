@@ -1,4 +1,4 @@
-## Hello, I'm Georgia 🐠 //
+## Hello, I'm Georgia 🐠
 
 <!--
 **rockyrelay/rockyrelay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 ### Here's my cheatsheet //
 
-- 🔭 I’m currently a Software Engineering Apprentice, under bootcamp with Founders and Coders
-- 🌱 I’m currently learning about servers
-- 🧩 I’m looking to collaborate on code review!
+- 🔭 I’m a Software Engineer Apprentice, currently on bootcamp with Founders and Coders
+- 🧩 I’m currently learning React
 - 🟩 I'm trying to keep my contribution graph green
 - 💬 Ask me about accessibility! I'm still learning, but I've spent a large portion of my career trying to make museums accessible
 - 📫 How to reach me: My handle is @rockyrelay in most places
