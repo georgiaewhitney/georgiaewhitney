@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 - 👩🏻‍💻 Pronouns: [she/her]
 - ⚡ Fun fact: Time transcends me - I was born on 29/02 🐸
 - 🪢 Μαθαίνω ελληνικά και θα ήθελα πολύ να μιλήσω για ψηφιακά πράγματα.
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rockyrelay&theme=gotham&border_radius=18&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
