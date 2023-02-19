@@ -30,5 +30,6 @@ Here are some ideas to get you started:
 
 ---
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rockyrelay&theme=gotham&border_radius=18&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
+<div style="text-align:center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=rockyrelay&theme=gotham&border_radius=18&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
+</div>
