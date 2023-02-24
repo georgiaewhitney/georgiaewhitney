@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 
 
 - 🔭 Software Engineer Apprentice, currently on bootcamp with Founders and Coders
-- 🧩 Currently learning React
+- 🧩 Currently learning React and Next.js
 - 🟩 Trying to keep my graph green
 - 💬 Ask me about accessibility! I'm still learning, but I've spent a large portion of my career trying to make museums accessible
 - 📫 How to reach me: My handle is @rockyrelay in most places
