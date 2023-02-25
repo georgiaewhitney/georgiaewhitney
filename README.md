@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 🧩 Currently learning React and Next.js
 - 🟩 Trying to keep my graph green
 - 💬 Ask me about accessibility! I'm still learning, but I've spent a large portion of my career trying to make museums accessible
-- 📫 How to reach me: My handle is @rockyrelay in most places
 - 👩🏻‍💻 Pronouns: [she/her]
 - ⚡ Fun fact: Time transcends me - I was born on 29/02 🐸
 - 🪢 Μαθαίνω ελληνικά και θα ήθελα πολύ να μιλήσω για ψηφιακά πράγματα.
