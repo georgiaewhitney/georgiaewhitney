@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ### 
 
-- 🔭 Software Engineer Apprentice, currently on bootcamp with Founders and Coders
+- 🔭 Software Engineer Apprentice, currently on bootcamp with [Founders and Coders](https://www.foundersandcoders.com)
 - 🧩 Currently learning React and Next.js
 - 🟩 Trying to keep my graph green
-- 💬 Ask me about accessibility! I'm still learning, but I've spent a large portion of my career trying to make museums accessible
+- 💬 I'm still learning, but I've spent a large portion of my career trying to make museums accessible
 - 👩🏻‍💻 Pronouns: [she/her]
 - ⚡ Fun fact: Time transcends me - I was born on 29/02 🐸
 - 🪢 Μαθαίνω ελληνικά και θα ήθελα πολύ να μιλήσω για ψηφιακά πράγματα.
