@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=georgiaewhitney&theme=ocean-gradient&hide_border=true&border_radius=7&locale=el&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=georgiaewhitney&theme=ocean-gradient&hide_border=true&border_radius=6.5&locale=el&hide_longest_streak=true)](https://git.io/streak-stats)
