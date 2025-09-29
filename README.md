@@ -37,7 +37,7 @@ const georgia: DeveloperProfile = {
   role: ["Digitisation and Preservation Systems Manager", "Software Engineer"],
   training: "Founders & Coders Bootcamp Graduate, Level 4 Software Developer",
   devMode: "museum-friendly",
-  coreSkills: ["TypeScript", "Next.js", "React", "AWS (s3, Lambda, IAM", "ingest workflows", "DAMS", "preservation metadata"],
+  coreSkills: ["TypeScript", "Next.js", "React", "AWS (s3, Lambda, IAM"), "ingest workflows", "DAMS", "preservation metadata"],
   tools: ["AWS", "Elasticsearch", "Git", "npm", "Goobi", "Archivematica", "IIIF"],
   domains: ["web Development" "digital preservation", "GLAM", "library data", "accessibility"],
   currentFocus: "Cascading the fun between digitsation and preservation archiecture and engineering"
