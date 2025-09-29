@@ -40,6 +40,6 @@ const georgia: DeveloperProfile = {
   coreSkills: ["TypeScript", "Next.js", "React", "AWS (s3, Lambda, IAM", "ingest workflows", "DAMS", "preservation metadata"],
   tools: ["AWS", "Elasticsearch", "Git", "npm", "Goobi", "Archivematica", "IIIF"],
   domains: ["web Development" "digital preservation", "GLAM", "library data", "accessibility"],
-  currentFocus: "Exploring the fun solutions between digitsation and preservation archiecture and engineering"
+  currentFocus: "Cascading the fun between digitsation and preservation archiecture and engineering"
 };
 ```
